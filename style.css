@@ -38,7 +38,7 @@ input, input:focus {
     line-height:1.6;
     font: 100% Georgia, Serif;
     outline:none;
-    padding-left:40px;
+    margin-left:40px;
     font-style:italic;
 }
 
