@@ -180,7 +180,7 @@ var temple2 = multipleChoiceBranch("Unable to tell if an eternity has passed or 
     ["Enter",() => temple3]
 ])
 
-var templeDesc = multipleChoiceBranch("You face the doors of a vestibule on the eastern wall of the temple, which leads directly into the temple's grand sanctuary, whose circular dome looms above you. To the north you can see the central nave, ending in the great gate which is used only for official processions. This connects to the road of sacrifice, which proceeds down the sacred mount, through the northern part of the city and into the wilderness beyond. To the south you can see a large garden; it is empty now but you suspect it would be quite a pleasant place in the spring or summer. The whole building is intricately ornamented, covered in sculpture and relief carvings, their beauty recalling the stories of the divine cities which fell to ruin so long ago.", [
+var templeDesc = multipleChoiceBranch("You face the doors of a vestibule on the eastern wall of the temple, which leads directly into the grand sanctuary whose circular dome looms above you. To the north you can see the central nave, ending in the great gate which is used only for official processions. This connects to the road of sacrifice, which proceeds down the sacred mount, through the northern part of the city and into the wilderness beyond. To the south you can see a large garden; it is empty now but you suspect it would be quite a pleasant place in the spring or summer. The whole building is intricately ornamented, covered in sculpture and relief carvings, their beauty recalling the stories of the divine cities which fell to ruin so long ago.", [
     ["Enter", () => temple3]
 ])
 
