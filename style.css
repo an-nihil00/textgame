@@ -44,6 +44,8 @@ input, input:focus {
 
 i {
     padding-left:40px;
+    animation: fadeIn linear .5s;
+    transition: opacity 500ms linear;
 }
 
 .read {
